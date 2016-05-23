@@ -4,7 +4,7 @@ New blog dedicated to generate, disseminate and preserve knowledge and work with
 
 ## Tech Used:
 
-Using Jekyll and hosting on Github pages.
+Using [Gatsby](https://github.com/gatsbyjs/gatsby) and hosting on Github pages.
 
 
 ## Contact:
